@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love rollerblading, iceskating and I'm a blackbelt Dan 1 in Taekwondo (a Korean Martial Art).
 
 --------
-[//]: <> (![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=AshokTak&show_icons=true&theme=dark)
+[//]: <> (![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=AshokTak&show_icons=true&theme=dark))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokTak&layout=compact)
 
