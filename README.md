@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
  🔭 I’m looking for full-time opportunities as Machine Learning Engineer / Researcher. 
- 🎓 I recently graduated from Masters of Applied Science from University of Toronto. 
- 🌱 I’m currently learning to build a full-stack AI product, along with learning on Coursera.
+ 🎓 I recently graduated with Masters of Applied Science in Electrical and Computer Engineering from University of Toronto. 
+ 🌱 I’m currently learning to build a full-stack AI product, along with self-learning.
  
 - 👯 I'm actively interested to collaborate on Machine Learning Projects and online hackathons.
 - 🤔 I’m looking for mentors for the business and leadership goals in AI ecosystems.
