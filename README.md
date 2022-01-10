@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
- 🔭 I’m looking for full-time opportunities as Machine Learning Engineer / Researcher. 
+ 🔭 I’m a Machine Learning Engineer / Researcher with focus on MLOps and Production level ML. 
  🎓 I recently graduated with Masters of Applied Science in Electrical and Computer Engineering from University of Toronto. 
  🌱 I’m currently learning to build a full-stack AI product, along with self-learning.
  
