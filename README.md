@@ -6,12 +6,12 @@
 Here are some ideas to get you started:
 -->
 
- 🔭 I’m a Machine Learning Engineer / Researcher with focus on MLOps and Production level ML. 
- 🎓 I recently graduated with Masters of Applied Science in Electrical and Computer Engineering from University of Toronto. 
+ 🔭 I’m a Software Engineer Data and Machine Learning with focus on MLOps and Production level ML. 
+ 🎓 I graduated with Masters of Applied Science in Electrical and Computer Engineering from University of Toronto in 2021. 
  🌱 I’m currently learning to build a full-stack AI product, along with self-learning.
  
 - 👯 I'm actively interested to collaborate on Machine Learning Projects and online hackathons.
-- 🤔 I’m looking for mentors for the business and leadership goals in AI ecosystems.
+- 🤔 I’m looking for mentors for the startups and engineering leads in AI ecosystems.
 - 💬 Ask me about AI in critical infrastructure e.g. energy, manufacturing industries.
 - 📫 How to reach me: Email me or Message me on Twitter. 
 - 😄 Pronouns: He/him
