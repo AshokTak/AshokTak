@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
  🔭 I’m a Data and Machine Learning Engineer with focus on MLOps and Production level ML. 
- 🎓 I graduated with Masters of Applied Science in Electrical and Computer Engineering from University of Toronto in 2021. 
+ 🎓 I graduated with Masters of Applied Science in Electrical and Computer Engineering from University of Toronto. 
  🌱 I’m currently learning to build a full-stack Gen AI products.
  
 - 👯 I'm actively interested to collaborate on Machine Learning Projects and online hackathons.
